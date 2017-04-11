@@ -1,0 +1,26 @@
+{
+  "name": "purescript-blackhole",
+  "description": "An uninhabitable type similar to Void",
+  "author": "Risto Stevcev",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "homepage": "https://github.com/Risto-Stevcev/purescript-blackhole",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Risto-Stevcev/purescript-blackhole.git"
+  },
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-console": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0",
+    "purescript-identity": "^3.0.0",
+    "purescript-exists": "^3.0.0"
+  }
+}
